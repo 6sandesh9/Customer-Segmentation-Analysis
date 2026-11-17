@@ -1,0 +1,19 @@
+ProductID,ProductName,Category,UnitPrice
+P001,Wireless Mouse,Electronics,140.44
+P002,Bluetooth Speaker,Electronics,81.8
+P003,USB-C Cable,Electronics,155.25
+P004,Water Bottle,Home & Kitchen,127.04
+P005,Coffee Maker,Home & Kitchen,21.48
+P006,Storage Organizer,Home & Kitchen,175.73
+P007,Cotton T-Shirt,Fashion,138.2
+P008,Running Shoes,Fashion,142.56
+P009,Backpack,Fashion,27.42
+P010,Face Wash,Beauty,83.82
+P011,Moisturizer,Beauty,69.89
+P012,Sunscreen,Beauty,167.18
+P013,Yoga Mat,Sports,117.68
+P014,Resistance Bands,Sports,148.98
+P015,Football,Sports,82.6
+P016,Notebook Set,Books,44.77
+P017,Desk Lamp,Books,102.05
+P018,Cookbook,Books,16.17
