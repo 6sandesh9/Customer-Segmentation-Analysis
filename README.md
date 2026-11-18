@@ -7,6 +7,14 @@ This project focuses on analyzing customer purchasing behavior and identifying d
 
 The goal is to understand customer value, purchasing patterns, and customer engagement to support better business decisions.
 
+
+## Problem Statement
+
+Businesses often have customers with different purchasing behaviors, spending patterns, and levels of engagement. However, without proper customer analysis, it can be difficult to identify high-value customers, understand inactive customers, and develop effective customer retention strategies.
+
+This project addresses this problem by analyzing customer transaction data using RFM Analysis and K-Means Clustering. It aims to group customers based on their purchasing behavior, identify valuable customer segments, and generate insights that can help businesses improve customer engagement, retention, and marketing strategies.
+
+
 ## Project Objectives
 
 - Analyze customer purchasing behavior.
@@ -75,6 +83,24 @@ K-Means clustering identified three customer groups:
 - Regular Customers represent the largest customer group.
 - Dormant Customers may require targeted re-engagement campaigns.
 - RFM and K-Means provide complementary ways to understand customer behavior.
+
+
+## Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Understanding and exploring real-world structured datasets.
+- Cleaning and preprocessing data using Python and Pandas.
+- Performing Exploratory Data Analysis (EDA) to identify trends and patterns.
+- Analyzing customer purchasing behavior using Recency, Frequency, and Monetary (RFM) metrics.
+- Applying K-Means Clustering for customer segmentation.
+- Using StandardScaler to prepare data for machine learning.
+- Comparing rule-based RFM segments with K-Means clustering results.
+- Creating visualizations using Matplotlib and Seaborn.
+- Developing business insights and recommendations from data.
+- Building an interactive dashboard using Power BI.
+- Organizing and managing a data analytics project using Git and GitHub.
+
 
 ## Power BI Dashboard
 
